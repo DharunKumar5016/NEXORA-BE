@@ -4,3 +4,11 @@ phidata[groq]>=2.0.0
 python-dotenv>=0.19.0
 requests>=2.25.0
 markdown>=3.3.0
+Flask==3.0.3
+flask-cors==4.0.1
+python-dotenv==1.0.1
+phi==0.3.8
+phi-model-groq==0.3.8
+phi-tools-duckduckgo==0.3.8
+
+requests==2.32.3
